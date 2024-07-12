@@ -13,7 +13,7 @@ function Ans() {
     Answer = Math.round(Math.random() * (max - min) * min + 1);
     return Answer;
 }
-let chanse = 0;
+let chanse = 1;
 let remainsNum = 10;
 let run = true;
 
