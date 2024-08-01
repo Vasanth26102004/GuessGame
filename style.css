@@ -44,9 +44,9 @@ button {
 }
 
 .submit{
-    background-color: lightgreen;
+    background-color: rgb(161, 219, 72);
 }
 
 .reset{
-    background-color: tomato;
+    background-color: rgb(219, 94, 72);
 }
