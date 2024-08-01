@@ -42,3 +42,12 @@ button {
     font-size: 14px;
     font-weight: 600;
 }
+
+.submit{
+    background-color: lightgreen;
+}
+
+.reset{
+    background-color: tomato;
+}
+}
