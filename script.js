@@ -57,5 +57,6 @@ Reset.addEventListener('click', function() {
     Submit.disabled = false;
     Answer = Ans();
     Message.textContent = "";
+    Guess.textContent = "";
     Remains.textContent = remainsNum;
 });
